@@ -1,0 +1,19 @@
+-e git+https://github.com/glocaltech/baseballmonkey.git@d677bc5b03d8c16ca2d63c144d56d35e71e3a607#egg=baseballapp&subdirectory=baseballapp
+-e git+https://github.com/glocaltech/baseballmonkey.git@8a5c7f2d7980c1638a9a61df74c3836f21d75380#egg=baseballmonkey&subdirectory=baseballmonkey
+Chameleon==2.25
+-e git+https://git.heroku.com/dry-earth-78056.git@6170f5cef4e05b482a641a4d86b03cb088c94170#egg=demoapp
+Mako==1.0.6
+MarkupSafe==0.23
+PasteDeploy==1.5.2
+Pygments==2.1.3
+pyramid==1.7.3
+pyramid-chameleon==0.3
+pyramid-debugtoolbar==3.0.5
+pyramid-mako==1.0.2
+repoze.lru==0.6
+translationstring==1.3
+venusian==1.0
+waitress==1.0.1
+WebOb==1.6.3
+zope.deprecation==4.2.0
+zope.interface==4.3.2
