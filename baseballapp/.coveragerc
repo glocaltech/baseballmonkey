@@ -1,0 +1,3 @@
+[run]
+source = baseballapp
+omit = baseballapp/test*
